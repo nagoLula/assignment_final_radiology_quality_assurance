@@ -15,7 +15,7 @@ This project proposes a cloud-integrated dashboard to monitor radiology imaging 
 
 ## Sample Data
 
-This project uses a **synthetic radiology dataset** from Kaggle
+This project uses a **synthetic radiology dataset** from Kaggle.
 
 The file is stored in the repository under:
 
@@ -32,10 +32,15 @@ The synthetic dataset was obtained from Kaggle:
 
 [radiologyDataSource]: https://www.kaggle.com/datasets/clemsadand/synthetic-radiology-data-predictive-process-mining?resource=download
 
+## Prototype Demonstration
+
+Screenshots demonstrating the running prototype and computed QA metrics are provided in the `screenshots/` directory.
+
+
 ## Sources and Acknowledgments
 
-- The project was created using course materials, publicly available documentation, and synthetic datasets from kaggle. 
-- Architectural design, documentation structure, and reflection writing were supported by AI-based tools for brainstorming and clarity.
+- The project was created using course materials, publicly available documentation, and synthetic datasets from Kaggle. 
+- AI-based tools for brainstorming and clarity supported architectural design, documentation structure, and reflection writing.
 
 ### AI tools used for assistance
 
